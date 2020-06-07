@@ -1,7 +1,7 @@
 # power-flow-analysis
 This MATLAB program solves for the state variables of a power system applying Newton-Raphson's algorithm
 
-A brief explanation of this method for power flow applications can be seen here:
+A brief explanation of this method for power flow applications can be seen here: 
 https://en.wikipedia.org/wiki/Power-flow_study
 
 A basic overview of this method
